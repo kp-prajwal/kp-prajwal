@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Prajwal KP
-- 🎓 An undergrad studying Electrical Engineering('22) @ PES University
-- 👀 I’m interested in Data Analytics
+- 👋 Hi, I’m Prajwal P Kulkarni
+- 🎓 Graduated in 2022 : Electrical Engineering('22) with a Minor in Computer Science @ PES University
+- 👀 I’m interested in Data Science
 - 📫 You can reach me at prajwalkp.work@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=kp-prajwal&label=PROFILE+VIEWS)
