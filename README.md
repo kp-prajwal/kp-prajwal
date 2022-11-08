@@ -4,7 +4,7 @@
 <p align="center">
   <a href="">Website</a> •
   <a href="https://www.linkedin.com/in/prajwal-kp/">LinkedIn</a> •
-  <a href="prajwalkp.work@gmail.com">Mail</a>
+  <a href="mailto:prajwalkp.work@gmail.com">Mail</a>
 </p>
 
  <!-- About section -->
@@ -28,7 +28,7 @@
 
 <h2>Connect with me </h3>
     <p>
-        <a href=""https://www.linkedin.com/in/prajwal-kp/""><img src="https://img.shields.io/badge/-LinkedIn%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link="https://www.linkedin.com/in/prajwal-kp/"" alt="LinkedIn Badge"></a>        
+        <a href="https://www.linkedin.com/in/prajwal-kp/"><img src="https://img.shields.io/badge/-LinkedIn%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link="https://www.linkedin.com/in/prajwal-kp/"" alt="LinkedIn Badge"></a>        
 <a href=""><img src="https://img.shields.io/badge/-Website-informational?style=plastic&amp;labelColor=informational&amp;logo=YouTube&amp;link=" alt="Youtube Badge"></a>
    </p>
 
