@@ -3,21 +3,17 @@
 
 <p align="center">
   <a href="">Website</a> •
-  <a href="https://www.linkedin.com/in/prajwal-kp/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/prajwal-kp/">LinkedIn</a> •
+  <a href="prajwalkp.work@gmail.com">Mail</a>
 </p>
 
  <!-- About section -->
 
 ---
-✨ I'm a Data Science + DevOps enthusiast. I am passionate about making the data accessible to everyone and advocating for building open and inclusive developer communities. 
-
+✨ I'm a Data Science + DevOps enthusiast. I am passionate about making the data accessible to everyone.
 - 🎓 Graduated in 2022 : Electrical Engineering with a Minor in Computer Science @ PES University - Bangalore, India
-- 🔭 I’m currently working in ABB, India as a R&D Trainee.
-<!-- code gif-->
-<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />   
-
+- 🔭 I’m currently working in ABB, India as a R&D Trainee - DevOps and Backend Engineer. 
 - 💬 Ask me about: Machine Learning, Business Intelligence, DevOps.
-
 - 📫 How to reach me: prajwalkp.work@gmail.com
 - 🌱 I’m currently learning Docker+Kubernetes and Big Data
 - 👯 I’m looking to collaborate on projects related to Data Science
