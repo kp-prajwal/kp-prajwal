@@ -13,14 +13,10 @@
 ---
 ✨ I'm a Data Science + DevOps enthusiast. I am passionate about making the data accessible to everyone.
 - 🎓 Graduated in 2022 : Electrical Engineering with a Minor in Computer Science @ PES University - Bangalore, India
-- 🔭 I’m currently working in ABB, India as a R&D Trainee - DevOps and Backend Engineer. 
-- 💬 Ask me about: Machine Learning, Business Intelligence, DevOps.
+- 💬 Ask me about: Machine Learning, Business Intelligence.
 - 📫 How to reach me: prajwalkp.work@gmail.com
 - 🌱 I’m currently learning Docker+Kubernetes and Big Data
 - 👯 I’m looking to collaborate on projects related to Data Science
-
-- ⚡ Fact about myself: I believe everything has a set of rules/protocols to be followed. There are also patterns in most of the aspects of life which are yet to be discovered.
-- 🎮 When I'm not coding, you can find me geeking about photography or Fantasy Football. I also enjoy playing badminton, table-tennis and cricket.
 
 <!-- About section: END -->
 
