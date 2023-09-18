@@ -12,11 +12,10 @@
 
 ---
 ✨ I'm a Data Science + DevOps enthusiast. I am passionate about making the data accessible to everyone.
-- 🎓 Graduated in 2022 : Electrical Engineering with a Minor in Computer Science @ PES University - Bangalore, India
+- 🎓 Graduate student pursuing Masters in Business Analytics with a concentration in Data Science at University of Texas at Dallas
 - 💬 Ask me about: Machine Learning, Business Intelligence.
 - 📫 How to reach me: prajwalkp.work@gmail.com
 - 🌱 I’m currently learning Docker+Kubernetes and Big Data
-- 👯 I’m looking to collaborate on projects related to Data Science
 
 <!-- About section: END -->
 
