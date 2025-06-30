@@ -11,11 +11,11 @@
  <!-- About section -->
 
 ---
-✨ I'm a Data Science + DevOps enthusiast. I am passionate about making the data accessible to everyone.
-- 🎓 Graduate student pursuing Masters in Business Analytics with a concentration in Data Science at University of Texas at Dallas
+✨ I'm a Data Science enthusiast.
+- 🎓 Graduated with a Masters in Business Analytics & AI with a concentration in Data Science at University of Texas at Dallas
 - 💬 Ask me about: Machine Learning, Business Intelligence.
 - 📫 How to reach me: prajwalkp.work@gmail.com
-- 🌱 I’m currently learning Docker+Kubernetes and Big Data
+- 🌱 I’m currently learning Docker+Kubernetes and Data Engineering
 
 <!-- About section: END -->
 
